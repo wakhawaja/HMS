@@ -1,14 +1,17 @@
-
 Welcome to my Kitchen
 
 Cusines
 
 1) Itallian
 a) Pasta
+b) Pizza
+c) Macroni
 
 2) Mexican
+a) Raosted Beef
 
 3) Indo-Pak
 a) Kheer Mix
+b) Chicken Fry
 
 Thank you :)
